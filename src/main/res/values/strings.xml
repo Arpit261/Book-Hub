@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="aboutapp">AboutApp</string>
+    <string name="Profile">profile</string>
+    <string name="profile">Profile</string>
+    <string name="favourite">Favourite</string>
+    <string name="open_drawer"> Open drawer</string>
+    <string name="close_drawer"> Close drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_activity">DashBoard Activity</string>
+    <string name="favourite_activity">Favourite Activity</string>
+    <string name="profile_activity">Profile Activity</string>
+    <string name="about_activity">About Activity</string>
+    <string name="sort">sort</string>
+    <string name="about">This app contains a list which is fetch from server.
+        It include 10 books along with its description and i hope you like it.
+        It also include a favourite bookmark which helps you mark as a favourite for future
+          that means  when you come next time  in the app and go to the favourite section and read those books which you have like it.
+
+    </string>
+    <string name="logout">Logout</string>
+</resources>
