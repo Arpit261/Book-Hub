@@ -2,11 +2,11 @@
 
 This app contains a list which is fetch from server it include 10 books along with description.
 It has:-
-SplashActivity
-Fragments
-Json
-RoomLibrary
-VolleyLibrary
+SplashActivity,
+Fragments,
+Json,
+RoomLibrary,
+VolleyLibrary etc.
 
 
 
